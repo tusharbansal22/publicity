@@ -20,9 +20,12 @@ remark: See also page.layout == 'home' in head.html and header.html.
       {% if two_col %}
         <div class="col-lg-4">
           <a class="twitter-timeline" data-height="500" data-link-color="{{ site.colors.links }}" href="https://twitter.com/{{ site.social.twitter }}?ref_src=twsrc%5Etfw">
-            Tweets by {{ site.social.twitter }}
+            Popular Success Stories
           </a>
-          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          {% for item in site.posts limit:site.posts_on_home %}
+          <p><a href="{{ item.url | relative_url }}" >{{item.title}}</a></p>
+        {% endfor %}
+          
         </div>
       {% endif %}
     </div>
