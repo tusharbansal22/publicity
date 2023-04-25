@@ -10,15 +10,19 @@
   href: /stories/
 - text: Departments
   menu: # Dropdown menu (one level deep only)
-  - text: Installation
-    href: /docs/installation/
-  - text: Configuration
-    href: /docs/configuration/
-  - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: Page with custom navigation
-    href: /docs/custom-navigation/
+  - text: ComputerScience
+    href: /departments/ComputerScience/
+  - text: DSAI
+    href: /docs/DSAI/
+  - text: Electrical
+    href: /docs/Electrical/
+  - text: Mechanical
+    href: /docs/Mechanical/
+  # - href: /docs/markdown/ # Undefined "text" will automatically get the title of the page at "href" (here "Markdown")
+  # - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  # - text: "Dropdown header" # Title for block of menu items
+  # - text: Page with custom navigation
+    # href: /docs/custom-navigation/
 # - text: GitHub
 #   href: https://github.com/peterdesmet/petridish/
   new_window: true
