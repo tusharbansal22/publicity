@@ -1,5 +1,5 @@
 ---
-title: Data management plan
+title: IIT Bhilai participates in the TIPS workshop
 description: |
   Our [data management plan](https://en.wikipedia.org/wiki/Data_management_plan) (`v1`) is now available.
   
@@ -8,7 +8,7 @@ description: |
   [Secondary button](#){:.btn .btn-sm .btn-secondary}
   [Dark button](#){:.btn .btn-sm .btn-dark}
   [Light button](#){:.btn .btn-sm .btn-light}
-background: "https://images.unsplash.com/photo-1495841020177-1919ede29bd8?ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+background: "https://i.ibb.co/m6ykftZ/news1.jpg"
 author: Philip J. Fry
 tags: [Data, Shared tag]
 comments: true
