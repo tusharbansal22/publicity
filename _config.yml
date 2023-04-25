@@ -5,7 +5,7 @@ baseurl: "/petridish"                   # Only required if your site is in a dir
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 
-# SOCIAL PROFILES
+# SOCIAL PROFILESgit config pull.rebase false
 social:
   email: name@example.com
   twitter: peterdesmet
