@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Success Stories
-description: Uses an easy to customize theme for its website
+description: Website to showcase Archived Research Highlights of IIT Bhilai
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
